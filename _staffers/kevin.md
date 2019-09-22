@@ -1,9 +1,9 @@
 ---
 name: Kevin Lin
 role: Instructor
-email: me@example.com
+email: kevinl@cs.uw.edu
 website: https://kevinl.info
-photo: /assets/images/kevin.jpg
+photo: kevin.jpg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule a meeting](https://kevinl.info/meet/){:target="_blank" rel="noopener" .btn .btn-outline }
