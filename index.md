@@ -16,3 +16,11 @@ description: >-
 {{ site.announcements.last }}
 [Announcements]({{ site.baseurl }}{% link announcements.md %}){: .btn .btn-outline .fs-3 }
 {% endif %}
+
+---
+
+## Calendar
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
