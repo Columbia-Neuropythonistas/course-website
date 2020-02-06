@@ -1,0 +1,64 @@
+image: ruby:2.6
+
+stages:
+  - build
+  - deploy
+
+variables:
+  JEKYLL_ENV: production
+  LC_ALL: en_US.UTF-8
+
+cache:
+  paths:
+    - _vendor/ruby
+    - _gems
+  key: dependencies-shared-across-all-branches
+
+before_script:
+  - export PATH="$(pwd)/_gems/bin:$PATH"
+  - export GEM_HOME="$(pwd)/_gems/"
+  - gem install jekyll bundler
+  - bundle config set path '_vendor'
+  - bundle install
+
+test:
+  stage: build
+  tags:
+    - courseweb
+  script:
+    - bundle exec jekyll build -d test
+  artifacts:
+    paths:
+      - test
+  except:
+    - master
+
+pages:
+  stage: build
+  tags:
+    - courseweb
+  script:
+    - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
+
+courseweb:
+  stage: deploy
+  tags:
+    - courseweb
+  before_script:
+    - ''
+  script: /www/utils/deploycourseweb.sh
+  cache: {}
+  variables:
+    course: cseXXX
+    quarter: XXxx
+    source_path: public
+    GIT_STRATEGY: none
+  only:
+    - master
+  dependencies:
+    - pages
