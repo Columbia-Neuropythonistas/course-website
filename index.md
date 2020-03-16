@@ -15,15 +15,14 @@ description: >-
 {% if site.announcements %}
 {{ site.announcements.last }}
 [Announcements]({{ site.baseurl }}{% link announcements.md %}){: .btn .btn-outline .fs-3 }
-{% for module in site.modules %}
-{% if site.announcements.last.week == module.week %}{{ module }}{% endif %}
-{% endfor %}
-{% endif %}
 
 ---
 
-## Calendar
+## Upcoming
 
+{% assign this_week = site.announcements.last.week %}
+{% assign next_week = this_week | plus: 1 %}
 {% for module in site.modules %}
-{{ module }}
+{% if this_week == module.week or next_week == module.week %}{{ module }}{% endif %}
 {% endfor %}
+{% endif %}
