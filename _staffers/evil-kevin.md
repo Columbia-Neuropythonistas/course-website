@@ -1,8 +1,8 @@
 ---
-name: Evil Kevin
-role: Teaching Assistant
+name: Matthias
+role: Instructor
 email: me@example.com
-website: https://kevinl.info
+website: https://github.io/gucky92
 photo: /assets/images/kevin.jpg
 ---
 
