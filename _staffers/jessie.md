@@ -1,8 +1,8 @@
 ---
-name: Kevin Lin
+name: Jessie
 role: Instructor
 email: me@example.com
-website: https://kevinl.info
+website: https://github.io/jko14
 photo: /assets/images/kevin.jpg
 ---
 
