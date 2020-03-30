@@ -18,6 +18,7 @@ description: Python Course for Handling Neuroscience Data
 author: Jacob
 email: jpp2139@columbia.edu
 baseurl: '/course-website' # the subpath of your site, e.g. /blog
+url: 'https://columbia-neuropythonistas.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings

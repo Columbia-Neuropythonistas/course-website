@@ -1,9 +1,9 @@
 ---
 name: Jacob
 role: Instructor
-email: me@example.com
+email: jpp2139@
 website: https://github.io/jacobfulano
-photo: /assets/images/kevin.jpg
+photo: /assets/images/jacob.jpg
 ---
 
 Python is better than Matlab =)
