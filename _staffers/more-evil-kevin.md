@@ -1,9 +1,9 @@
 ---
-name: More Evil Kevin
-role: Teaching Assistant
+name: Jacob
+role: Instructor
 email: me@example.com
-website: https://kevinl.info
+website: https://github.io/jacobfulano
 photo: /assets/images/kevin.jpg
 ---
 
-I like teaching Computer Science!
+Python in better than Matlab =)
