@@ -1,6 +1,6 @@
 ---
 name: Really Evil Kevin
-role: Teaching Assistant
+role: Faculty Supervisor
 email: me@example.com
 website: https://kevinl.info
 photo: /assets/images/kevin.jpg
