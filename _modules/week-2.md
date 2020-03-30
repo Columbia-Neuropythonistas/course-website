@@ -16,9 +16,14 @@ days:
       "[Datajoint Continued](#)":
         "[slides](#)"
         
-   - date: 2020-05-05
+  - date: 2020-05-05
     events:
       "[Dynamic Autopopulation](#)":
+        "[slides](#)"
+        
+  - date: 2020-05-07
+    events:
+      "[Web Application for Databases](#)":
         "[slides](#)"
        
 
