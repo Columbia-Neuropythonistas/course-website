@@ -2,9 +2,9 @@
 week: 1
 title: Introduction to Java
 days:
-  - date: 2019-04-01
+  - date: 2020-04-09
     events:
-      "[Java & Git](#)":
+      "[Python Basics](#)":
         "[1.1](#)"
       "**HW 1 out**{: .label .label-hw-out }":
         null
