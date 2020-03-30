@@ -10,8 +10,8 @@ schedule:
     events:
       - name: Lecture
         class: lecture
-        start: 10:30 AM
-        end: 11:00 AM
+        start: 10:00 AM
+        end: 11:30 AM
         location: zoom
         
         
@@ -21,8 +21,8 @@ schedule:
     events:
       - name: Lecture
         class: lecture
-        start: 10:30 AM
-        end: 11:00 AM
+        start: 10:00 AM
+        end: 11:30 AM
         location: zoom
         
   - name: Friday
