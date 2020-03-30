@@ -1,5 +1,5 @@
 ---
-part: 1
+week: 1
 title: Introduction to Python
 days:
   - date: 2020-04-09
@@ -14,12 +14,28 @@ days:
   - date: 2020-04-14
     events:
       "[Plotting and Git (Jacob)](#)":
-        "[1.2](#), [2.1](#)"
+        "[slides](#), [2.1](#)"
+      "**HW 1 due**{: .label .label-hw-due }":
+        null
+      "**HW 2 out**{: .label .label-hw-out }":
+        null
   
   - date: 2020-04-16
     events:
       "[Scientific Programming Basics (Jessie)](#)":
-        "[2.1](#)"
-      "**HW 1 due**{: .label .label-hw-due }":
+        "[slides](#)"
+      "**HW 2 due**{: .label .label-hw-due }":
         null
+      "**HW 3 out**{: .label .label-hw-out }":
+        null
+      
+  - date: 2020-04-21
+    events:
+      "[Using Classes in Python (Jacob)](#)":
+        "[slides](#)"
+      "**HW 3 due**{: .label .label-hw-due }":
+        null
+      "**HW 4 out**{: .label .label-hw-out }":
+        null
+
 ---
