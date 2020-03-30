@@ -13,9 +13,9 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 
-## Teaching Assistants
+## Faculty Supervisor
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% for staffer in teaching_assistants %}
+{% assign supervisors = site.staffers | where: 'role', 'Faculty Supervisor' %}
+{% for staffer in supervisors %}
 {{ staffer }}
 {% endfor %}
