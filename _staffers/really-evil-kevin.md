@@ -1,9 +1,7 @@
 ---
-name: Really Evil Kevin
+name: Rudy Behnia
 role: Faculty Supervisor
-email: me@example.com
-website: https://kevinl.info
-photo: /assets/images/kevin.jpg
+website: http://behnialab.neuroscience.columbia.edu
+photo: /assets/images/rudy.jpg
 ---
 
-I like teaching Computer Science!
