@@ -20,10 +20,6 @@ days:
     events:
       "[Dynamic Autopopulation](#)":
         "[slides](#)"
-        
-   - date: 2020-05-07
-    events:
-      "[Web Application for Databases](#)":
-        "[slides](#)"
+       
 
 ---
