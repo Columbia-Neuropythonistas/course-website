@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Python for Neuroscientists
+title: Python for Handling Neuroscience Data
 description: Python Course for Neuroscientists
 author: Jacob
-email: me@example.com
+email: jpp2139@
 baseurl: '/course-website' # the subpath of your site, e.g. /blog
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -36,7 +36,6 @@ nav_links:
 aux_links:
   'Just the Class on GitHub':
     - 'https://github.com/kevinlin1/just-the-class'
-footer_content: "Based on <a href=\"https://github.com/pmarsceill/just-the-docs\">Just the Docs</a> by Patrick Marsceill."
 nav_footer_content: "Powered by <a href=\"https://github.com/kevinlin1/just-the-class\">Just the Class</a>"
 
 # Collections for website data
