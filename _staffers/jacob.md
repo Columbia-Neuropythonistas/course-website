@@ -6,4 +6,4 @@ website: https://github.io/jacobfulano
 photo: /assets/images/kevin.jpg
 ---
 
-Python in better than Matlab =)
+Python is better than Matlab =)
