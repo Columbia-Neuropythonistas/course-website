@@ -1,9 +1,9 @@
 ---
 name: Jessie
 role: Instructor
-email: me@example.com
+email: jrk2177@
 website: https://github.io/jko14
 photo: /assets/images/jessie.jpg
 ---
-
+Python rocks!
 [Schedule an appointment](#){: .btn .btn-outline }

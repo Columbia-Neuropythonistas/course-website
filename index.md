@@ -3,13 +3,12 @@ layout: home
 title: Home
 nav_order: 0
 description: >-
-    Just the Class is a modern, highly customizable, responsive Jekyll theme
-    for developing course websites.
+    Python course for handling neuroscience data
 ---
 
-# {{ site.description }}
+# {{ site.title }}
 {: .mb-2 }
-{{ site.title }}
+{{ site.description }}
 {: .fs-6 .fw-300 }
 
 {% if site.announcements %}

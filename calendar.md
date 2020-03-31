@@ -2,14 +2,12 @@
 layout: page
 title: Course Calendar
 nav_order: 2
-description: An embedded Google Calendar displaying the weekly event schedule.
+description: Syllabus for Spring 2020
 ---
 
 # Course Calendar
 
-Course materials are defined in the `_modules` directory. Each module is rendered here according to their filename.
-
-Modules are rendered according to the layout file defined in `_layouts/module.html`. Edit the HTML to modify the layout.
+Topics and assignments subject to change.
 
 ## Modules
 

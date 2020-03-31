@@ -1,7 +1,7 @@
 ---
-name: Matthias
+name: Gucky
 role: Instructor
-email: me@example.com
+email: gucky@
 website: https://github.io/gucky92
 ---
 
