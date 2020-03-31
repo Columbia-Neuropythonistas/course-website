@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Python for Neuroscientists
-description: a Python "nanocourse" for handling neuroscience data | NBB GR7050 | Spring 2020
+description: Spring 2020 | a Python "nanocourse" for handling neuroscience data 
 author: Jacob
 email: jpp2139@columbia.edu
 url: 'https://neuropython.com'
