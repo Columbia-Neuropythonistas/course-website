@@ -4,5 +4,5 @@ week: 0
 date: 2020-03-30
 ---
 
-This is the first announcement
+There are no announcements yet =)
 {: .fs-5 }
