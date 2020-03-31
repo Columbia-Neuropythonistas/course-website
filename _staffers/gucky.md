@@ -1,9 +1,9 @@
 ---
-name: Gucky
+name: Gucky (Matthias)
 role: Instructor
-email: gucky@
+email: gucky@gucky.eu
 website: https://github.io/gucky92
 photo: /assets/images/avatar.png
 ---
 
-I like databases!
+[Python Evangelist](https://xkcd.com/353/)
