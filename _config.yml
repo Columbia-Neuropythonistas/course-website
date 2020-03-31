@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Python for Neuroscientists
-description: Python Course for Handling Neuroscience Data
+title: NBB GR7050 Python for Neuroscientists
+description: a Python "nanocourse" for handling neuroscience data
 author: Jacob
 email: jpp2139@columbia.edu
 url: 'https://neuropython.com'
