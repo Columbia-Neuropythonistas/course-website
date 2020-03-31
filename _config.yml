@@ -17,7 +17,6 @@ title: Python for Neuroscientists
 description: Python Course for Handling Neuroscience Data
 author: Jacob
 email: jpp2139@columbia.edu
-baseurl: '/course-website' # the subpath of your site, e.g. /blog
 url: 'https://neuropython.com'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
