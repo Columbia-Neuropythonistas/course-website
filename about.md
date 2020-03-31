@@ -25,7 +25,7 @@ This course covers Python tools available to neuroscientists for data analysis a
 
 ## Lecture
 
-Lectures are Tuesdays and Thursdays from 10:00-11:30 am EST. The course begins on Thursday April 9th and ends on Thursday May 7th.
+Lectures are Tuesdays and Thursdays from 10:00-11:30 am EST. The course begins on Thursday April 9th and ends on Thursday May 7th, 2020.
 
 
 ## Assignments
