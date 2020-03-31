@@ -2,7 +2,7 @@
 layout: page
 title: Course Calendar
 nav_order: 2
-description: Calendar displaying the weekly event schedule.
+description: Syllabus for Spring 2020
 ---
 
 # Course Calendar
