@@ -1,7 +1,7 @@
 ---
 name: Gucky (Matthias)
 role: Instructor
-email: gucky@gucky.eu
+email: matthias.christenson@columbia.edu
 website: https://github.io/gucky92
 photo: /assets/images/avatar.png
 ---
