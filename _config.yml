@@ -27,8 +27,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 nav_links:
-  Gradescope:
-    - 'https://gradescope.com'
   Slack:
     - 'https://join.slack.com/t/columbianeuro-azl5592/shared_invite/zt-d97xgbon-7mUYTQOT0mNtwkK9~n1RzQ'
 aux_links:
