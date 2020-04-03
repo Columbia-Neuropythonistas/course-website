@@ -1,8 +1,13 @@
 ---
 title: Week 0 Announcement
 week: 0
-date: 2020-03-30
+date: 2020-04-02
 ---
 
-There are no announcements yet =)
+Pre-class slides are up!
+
+If you're already comfortable hosting Jupyter Notebooks locally and know the ins-and-outs of installing/importing Python packages, you can skip these :) If that all sounds a little dicey to you, give them a look before class!
+
+We're excited to see you all at 10am on April 9th - expect a link to the meeting before class starts.
+
 {: .fs-5 }
