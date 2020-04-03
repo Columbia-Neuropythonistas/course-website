@@ -5,7 +5,7 @@ days:
   - date: 2020-04-09
     events:
       "[Python Basics (Jessie)](#)":
-        "[slides TBD](#), [HW1 TBD](#)"
+        "[Pre-Class Slides](/assets/slides/preclass.pdf), [HW1 TBD](#)"
       "**HW 0 due**{: .label .label-hw-due }":
         null
       "**HW 1 out**{: .label .label-hw-out }":
@@ -19,7 +19,7 @@ days:
         null
       "**HW 2 out**{: .label .label-hw-out }":
         null
-  
+
   - date: 2020-04-16
     events:
       "[Scientific Programming Basics (Jessie)](#)":
@@ -28,7 +28,7 @@ days:
         null
       "**HW 3 out**{: .label .label-hw-out }":
         null
-      
+
   - date: 2020-04-21
     events:
       "[Using Classes in Python (Jacob)](#)":
