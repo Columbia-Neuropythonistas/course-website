@@ -6,8 +6,7 @@ days:
     events:
       "[Python Basics (Jessie)](#)":
         "[Pre-Class Slides](/assets/slides/preclass.pdf), [HW1 TBD](#)"
-      "**HW 0 due**{: .label .label-hw-due }":
-        null
+     
       "**HW 1 out**{: .label .label-hw-out }":
         null
 
