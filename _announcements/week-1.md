@@ -1,6 +1,6 @@
 ---
 title: Week 1 Slides
-week: 0
+week: 1
 date: 2020-04-09
 ---
 
