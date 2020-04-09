@@ -23,9 +23,11 @@ Spring 2020 |
 
 This course covers Python tools available to neuroscientists for data analysis and data pipeline building. The class will begin with four (optional) introductory courses for students who are less comfortable programming in Python; however, some basic familiarity with programming concepts will be useful.
 
+The course number is NBHV7050GR. For those who would like to formally register, please email ak487@ before April 9th.
+
 ## Lecture
 
-Lectures are Tuesdays and Thursdays from 10:00-11:30 am EST. The course begins on Thursday April 9th and ends on Thursday May 7th, 2020.
+Lectures are Tuesdays and Thursdays from 10:00-11:30 am EST. The course begins on Thursday April 9th and ends on Thursday May 7th, 2020. There are 9 lectures total.
 
 
 ## Assignments

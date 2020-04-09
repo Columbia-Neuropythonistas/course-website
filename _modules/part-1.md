@@ -5,18 +5,23 @@ days:
   - date: 2020-04-09
     events:
       "[Python Basics (Jessie)](#)":
+<<<<<<< HEAD
         "[Pre-Class Slides](/assets/slides/preclass.pdf),
         [Class 1 Slides](/assets/slides/Lecture 1 Slides.pdf),
         [HW1 TBD](#)"
       "**HW 0 due**{: .label .label-hw-due }":
         null
+=======
+        "[Pre-Class Slides](/assets/slides/preclass.pdf), [HW1 TBD](#)"
+     
+>>>>>>> ced4dcf9f50c6697cc16edd107bda324ca1849dd
       "**HW 1 out**{: .label .label-hw-out }":
         null
 
   - date: 2020-04-14
     events:
       "[Plotting and Git (Jacob)](#)":
-        "[slides TBD](#), [HW2 TBD](#)"
+        "[slides TBD](#), [HW2-Plotting](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW2), [HW2-Bonus: Create Personal Website with GitPages](#)"
       "**HW 1 due**{: .label .label-hw-due }":
         null
       "**HW 2 out**{: .label .label-hw-out }":
