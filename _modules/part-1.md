@@ -5,7 +5,9 @@ days:
   - date: 2020-04-09
     events:
       "[Python Basics (Jessie)](#)":
-        "[Pre-Class Slides](/assets/slides/preclass.pdf), [HW1 TBD](#)"
+        "[Pre-Class Slides](/assets/slides/preclass.pdf),
+        [Class 1 Slides](/assets/slides/Lecture 1 Slides.pdf),
+        [HW1 TBD](#)"
       "**HW 0 due**{: .label .label-hw-due }":
         null
       "**HW 1 out**{: .label .label-hw-out }":
