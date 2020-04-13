@@ -14,7 +14,7 @@ days:
   - date: 2020-04-14
     events:
       "[Plotting and Git (Jacob)](#)":
-        "[slides TBD](#), [HW2-Plotting](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW2), [HW2-Bonus: Create Personal Website with GitPages](#)"
+        "[numpy slides](assets/lecture2-slides-numpy-arrays.pdf), [HW2-Plotting](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW2), [HW2-Bonus: Create Personal Website with GitPages](#)"
       "**HW 1 due**{: .label .label-hw-due }":
         null
       "**HW 2 out**{: .label .label-hw-out }":
