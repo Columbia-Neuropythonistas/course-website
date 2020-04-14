@@ -15,8 +15,8 @@ days:
     events:
       "**Plotting and Git (Jacob)**":
         "[numpy slides](/assets/slides/lecture2-slides-numpy-arrays.pdf),[matplotlib slides](/assets/slides/lecture2-slides-matplotlib.pdf), [hw1 and git slides](/assets/slides/lecture2-slides-hw1+git.pdf) "
-      "**HW2**":
-        "[HW2-Plotting](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW2)"
+      "**[HW2 - Plotting and GitHub](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW2)**":
+
       "**HW 1 due**{: .label .label-hw-due }":
         null
       "**HW 2 out**{: .label .label-hw-out }":
