@@ -6,8 +6,8 @@ days:
     events:
       "**Python Basics (Jessie)**":
         "[Pre-Class Slides](/assets/slides/preclass.pdf),
-        [Class 1 Slides](/assets/slides/Lecture 1 Slides.pdf),
-        [HW1: due 04/14](/assets/homework/Class 1 HW.pdf)"
+        [Class 1 Slides](/assets/slides/Lecture 1 Slides.pdf)"
+      "*[HW1: due 04/14](/assets/homework/Class 1 HW.pdf)*":
       "**HW 1 out**{: .label .label-hw-out }":
         null
 
@@ -15,7 +15,7 @@ days:
     events:
       "**Plotting and Git (Jacob)**":
         "[numpy slides](/assets/slides/lecture2-slides-numpy-arrays.pdf),[matplotlib slides](/assets/slides/lecture2-slides-matplotlib.pdf), [hw1 and git slides](/assets/slides/lecture2-slides-hw1+git.pdf),[numpy and matplotlib ipynb notebooks](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Lectures/Lecture2)"
-      "*[HW2 - Plotting and GitHub](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW2)*":
+      "*[HW2 - Plotting and GitHub: due 04/16](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW2)*":
 
       "**HW 1 due**{: .label .label-hw-due }":
         null
