@@ -25,7 +25,7 @@ days:
   - date: 2020-04-16
     events:
       "**Scientific Programming Basics (Jessie)**":
-        "[slides TBD](#),[HW3 TBD](#)"
+        "[Class 3 Slides](/assets/slides/lecture3-slides-scientificprogramming.pdf),[HW3 To be posted afternoon 4/16](#)"
       "**HW 2 due**{: .label .label-hw-due }":
         null
       "**HW 3 out**{: .label .label-hw-out }":
