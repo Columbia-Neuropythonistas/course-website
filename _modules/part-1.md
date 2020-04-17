@@ -25,13 +25,9 @@ days:
   - date: 2020-04-16
     events:
       "**Scientific Programming Basics (Jessie)**":
-<<<<<<< HEAD
         "[Class 3 Slides](/assets/slides/lecture3-slides-scientificprogramming.pdf),
-        [ Link to GitHub: Notebook to follow-along during class (+ bonus csv - keep them in the same directory!!)](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW3)"
+        [Class 3 Notebook](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW3)"
         "[ HW3 Part 1](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/blob/master/Homeworks/HW3/HW3_Part_1.ipynb)"
-=======
-        "[Class 3 Slides](/assets/slides/lecture3-slides-scientificprogramming.pdf),[class 3 notebook](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW3),[ HW3 TBD](#)"
->>>>>>> 0fa97abe2fa252be6e43947428d78ea01850010b
       "**HW 2 due**{: .label .label-hw-due }":
         null
       "**HW 3 out**{: .label .label-hw-out }":
