@@ -27,7 +27,7 @@ days:
       "**Scientific Programming Basics (Jessie)**":
         "[Class 3 Slides](/assets/slides/lecture3-slides-scientificprogramming.pdf),
         [Class 3 Notebook](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW3)"
-        "[ HW3 Part 1](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/blob/master/Homeworks/HW3/HW3_Part_1.ipynb)"
+        "*[ HW3 Part 1](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/blob/master/Homeworks/HW3/HW3_Part_1.ipynb)*":
       "**HW 2 due**{: .label .label-hw-due }":
         null
       "**HW 3 out**{: .label .label-hw-out }":
