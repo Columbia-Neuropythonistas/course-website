@@ -32,8 +32,13 @@ Here are some Python resources that we have found to be particularly helpful
 ## Git Resources
 
 * The Zuckerman Institute github repository has a great introductory git tutorial here: [Version Control with Git](https://zuckermanbrain.github.io/git-novice/). We highly recommend working through this tutorial (~0.5-1 hour)
+
 * Here is a short, visual introduction to git version control [A Grip On Git](https://agripongit.vincenttunru.com/)
 * This is a more intricate but helpful git reference: [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+
+* [Pro Git book (Chacon and Straub)](https://git-scm.com/book/en/v2) - detailed, open-source reference book
+
+* [What is git push --set-upstream origin?](https://stackoverflow.com/questions/37770467/why-do-i-have-to-git-push-set-upstream-origin-branch)
 
 ## Libraries/Packages
 * [numpy](https://numpy.org/devdocs/user/quickstart.html) - for numerical matrix/array operations
@@ -51,4 +56,6 @@ Here are some Python resources that we have found to be particularly helpful
 
 
 ## Miscellaneous
-* [The meaning of underscores in Python](https://dbader.org/blog/meaning-of-underscores-in-python) (referenced in lecture 4)
+* [The meaning of underscores in Python](https://dbader.org/blog/meaning-of-underscores-in-python) (referenced in lecture 4 with regards to classes)
+* [Reshaping in Pandas - Pivot, Pivot-Table, Stack, and Unstack explained with Pictures](https://nikgrozev.com/2015/07/01/reshaping-in-pandas-pivot-pivot-table-stack-and-unstack-explained-with-pictures/)
+* [Python class inhertance](https://www.python-course.eu/python3_inheritance.php  )
