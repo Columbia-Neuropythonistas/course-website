@@ -20,7 +20,7 @@ description: >-
 Here are some Python resources that we have found to be particularly helpful
 
 ## Python Textbooks
-* [Python Data Science Handbook (Jake VanderPlas 2016)](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html) - available on git hub with accompanying notebooks. Very readable!
+* [Python Data Science Handbook (Jake VanderPlas 2016)](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) - available on git hub with accompanying notebooks. Very readable!
 
 ## Python Courses
 
