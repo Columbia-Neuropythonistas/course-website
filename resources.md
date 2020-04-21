@@ -22,6 +22,8 @@ Here are some Python resources that we have found to be particularly helpful
 ## Python Textbooks
 * [Python Data Science Handbook (Jake VanderPlas 2016)](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) - available on git hub with accompanying notebooks. Very readable!
 
+* [Object-Oriented Programming in Python](https://python-textbok.readthedocs.io/en/1.0/index.html) - a decent online reference
+
 ## Python Courses
 
 * [Berkeley Python Course (2018)](https://github.com/profjsb/python-seminar/tree/master/DataFiles_and_Notebooks)
