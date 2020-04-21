@@ -36,15 +36,17 @@ Here are some Python resources that we have found to be particularly helpful
 * This is a more intricate but helpful git reference: [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 
 ## Libraries/Packages
-* [`numpy`](#) - for nunmerical matrix/array operations
-* [`matplotlib`](#) - for plotting
-* [`pandas`](#) - for handling data in table-like structures ("DataFrames")
+* [numpy](https://numpy.org/devdocs/user/quickstart.html) - for numerical matrix/array operations
+* [matplotlib](https://matplotlib.org/) - for MATLAB-type plotting
+* [pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started) - for handling data in table-like structures ("DataFrames")
 
-* [`scipy`](#) - for scientific and engineering functions
-* [`seaborn`](#) - nice formatting for plotting with pandas DataFrames
+* [scipy](https://docs.scipy.org/doc/scipy-1.4.1/reference/tutorial/general.html) - for scientific computing
+* [seaborn](https://seaborn.pydata.org/) - nice formatting for plotting with pandas DataFrames. Based on `matplotlib`
 
-* [`statsmodels`](https://www.statsmodels.org/) - a rich statistical package similar to R
-* [`sklearn`](#)
+* [statsmodels](https://www.statsmodels.org/) - a rich statistical package similar to R
+* [sklearn](https://scikit-learn.org) - quintessential machine learning package
+
+* [datajoint](https://datajoint.io/) - for programming scientific databases and computational data pipelines.
 
 
 
