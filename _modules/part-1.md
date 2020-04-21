@@ -37,7 +37,9 @@ days:
   - date: 2020-04-21
     events:
       "**Linear Regression and Introduction to Classes in Python (Jacob)**":
-        "[Class 4 slides](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Lectures/Lecture4),[HW4 TBD](#)"
+        "[Class 4 Slides (.html)](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Lectures/Lecture4),[Class 4 Notebooks](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Lectures/Lecture4)"
+      "*[HW4 TBD](#)*":
+      
       "**HW 3 due**{: .label .label-hw-due }":
         null
       "**HW 4 out**{: .label .label-hw-out }":
