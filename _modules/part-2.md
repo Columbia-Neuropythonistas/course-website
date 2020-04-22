@@ -5,7 +5,7 @@ days:
   - date: 2020-04-23
     events:
       "**Introduction to Databases (Gucky)**":
-        "[slides TBD](#), [notes TBD](#)"
+        "[slides](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Lectures/Lecture5)"
       "**HW 4 due**{: .label .label-hw-due }":
         null
       "**HW 5 out**{: .label .label-hw-out }":
