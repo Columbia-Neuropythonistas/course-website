@@ -10,7 +10,10 @@ days:
         null
       "**HW 5 out**{: .label .label-hw-out }":
         null
-
+  - date: 2020-04-28
+    events:
+      "**Tutorial: Setting up and Troubleshooting Datajoint (Gucky)**":
+        "[slides TBD](#)"
   - date: 2020-04-30
     events:
       "**Datajoint Continued (Gucky)**":
