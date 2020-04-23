@@ -56,7 +56,18 @@ Here are some Python resources that we have found to be particularly helpful
 * [What is git push --set-upstream origin?](https://stackoverflow.com/questions/37770467/why-do-i-have-to-git-push-set-upstream-origin-branch)
 
 
+## Database Resources
+
+* [What is ACID-compliance (atomicity, consistency, isolation, durability)?](https://database.guide/what-is-acid-in-databases/)
+
 ## Miscellaneous
 * [The meaning of underscores in Python](https://dbader.org/blog/meaning-of-underscores-in-python) (referenced in lecture 4 with regards to classes)
 * [Reshaping in Pandas - Pivot, Pivot-Table, Stack, and Unstack explained with Pictures](https://nikgrozev.com/2015/07/01/reshaping-in-pandas-pivot-pivot-table-stack-and-unstack-explained-with-pictures/)
 * [Python class inhertance](https://www.python-course.eu/python3_inheritance.php  )
+
+* [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
+* [Built in "Magic" Methods for Python Classes](https://rszalski.github.io/magicmethods/)
+* [Lambda Functions](https://realpython.com/python-lambda/)
+* [Multiple Inheritance and Mixin Classes](https://realpython.com/inheritance-composition-python/)
+* [Abstract Base Classes](https://pymotw.com/2/abc/)
+* [Example: Build a "Polynomial" Class](https://www.python-course.eu/polynomial_class_in_python.php)
