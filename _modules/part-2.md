@@ -21,6 +21,7 @@ days:
       "**[HW 5 due](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW5)**{: .label .label-hw-due }":
         null
       "**[HW 6 out](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW6)**{: .label .label-hw-out }":
+        null
 
   - date: 2020-05-05
     events:
@@ -29,6 +30,7 @@ days:
         "**[HW 6 due](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Homeworks/HW5)**{: .label .label-hw-due }":
         null
       "**[HW 7 out](#)**{: .label .label-hw-out }":
+        null
 
   - date: 2020-05-07
     events:
