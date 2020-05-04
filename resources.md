@@ -44,6 +44,14 @@ Here are some Python resources that we have found to be particularly helpful
 
 * [datajoint](https://datajoint.io/) - for programming scientific databases and computational data pipelines.
 
+## DataJoint Resources
+
+* [Documentation](https://docs.datajoint.io/python/)
+* [playground-tutorial](https://github.com/vathes/playground_tutorial) - for an extensive introduction to datajoint
+* [WIP movie tutorials](https://github.com/vathes/db-programming-with-datajoint)
+* [New features notebooks](https://github.com/datajoint/dj-python-101) - great for understanding some new features added to datajoint, such as AttributeAdapters.
+
+
 ## Git Resources
 
 * The Zuckerman Institute github repository has a great introductory git tutorial here: [Version Control with Git](https://zuckermanbrain.github.io/git-novice/). We highly recommend working through this tutorial (~0.5-1 hour)
