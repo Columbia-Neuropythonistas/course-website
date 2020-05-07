@@ -27,7 +27,7 @@ days:
   - date: 2020-05-05
     events:
       "**Dynamic Autopopulation (Gucky aka Matthias)**":
-        "[slides TBD](#)"
+        "[notebook](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Lectures/Lecture7)"
       "*[HW7](#)*":
       "**HW 6 due**{: .label .label-hw-due }":
         null
@@ -37,7 +37,12 @@ days:
   - date: 2020-05-07
     events:
       "**Web Application for Databases (Gucky aka Matthias)**":
-        "[slides TBD](#)"
+        "[slides](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/blob/master/Lectures/Lecture8/last_lecture.pdf)"
+
+  - date: 2020-05-12
+    events:
+      "**Design Workshop: Designing Your Own Database & Datapipeline**":
+        "[notebook](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Workshop)"
 
 
 ---
