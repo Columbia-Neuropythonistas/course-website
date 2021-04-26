@@ -17,6 +17,8 @@ description: >-
 
 ---
 
+UPDATE: This page will be updated for Spring 2021 soon
+
 Spring 2020 |
 
 ## Course Description
